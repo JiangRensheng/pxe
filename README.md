@@ -100,6 +100,8 @@ you might have to disable bridge netfilter filtering. Please look
 at issue [#17](https://github.com/jpetazzo/pxe/issues/17) for
 more details.
 
+maybe you should use openvswitch bridge ^-^!
+
 
 ## Can I change the IP address, 192.168.242.1...?
 
